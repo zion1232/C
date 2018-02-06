@@ -1,8 +1,7 @@
 
 #include <stdio.h> /*Using libraries*/
 #define _CRT_SECURE_NO_WARNINGS/*Command to use the SCAN command*/
-#define PRICE_FOR_TICKET 35;/*constant variable
-*/
+#define PRICE_FOR_TICKET 35;/*constant variable*/
 void main()
 {
 	int numberofti, pay;
@@ -13,3 +12,5 @@ void main()
 
 
 }
+
+/*Ask the user how many tickets he wants to buy, multiply the fixed variable and tell him how much he has to pay*/
