@@ -20,4 +20,4 @@ void main()
 
 }
 
-/*Calculate the price of a packaging product box and consider bottles including taxrx*/
+/*Calculate the price of a packaging product box and consider bottles including taxes*/
