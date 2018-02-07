@@ -60,7 +60,7 @@
 		}
 		temp /= 10;
 	}
-	printf("orgin number is %d . and only the negative  number are %d\n ", num, newnumber);
+	printf("orgin number is %d . and only the odd   number are %d\n ", num, newnumber);
 
 }
 
