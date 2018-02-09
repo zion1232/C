@@ -45,7 +45,7 @@
 
 }
 
-@@@only the negative  number@@@
+@@@only the odd  number@@@
 	int num, temp, newnumber = 0, location = 1;
 	printf("Enter number ");
 	scanf_s("%d", &num);
