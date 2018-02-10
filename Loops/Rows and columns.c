@@ -1,5 +1,4 @@
-rowa and columsn
-{
+Rows and columns{
 	int i, j, r ,c;
 	printf("enter number of Rows  and columsn");
 	scanf_s("%d%d", &r,&c);
