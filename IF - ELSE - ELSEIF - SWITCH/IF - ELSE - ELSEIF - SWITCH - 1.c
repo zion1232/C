@@ -48,7 +48,7 @@ void main()
 	{
 			printf("is duplex?");
 			scanf_s("%d", &duplex);
-			price = duplex ? 200 : 180;
+			price = duplex ? 200 : 180; ///if thr part one is tru then 200 else 180
 	}
 	printf("please py me %d nis \n", price);
 }
