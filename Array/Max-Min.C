@@ -1,5 +1,5 @@
 /* The high number in the array*/
-
+#define SIZE 5
 void main()
 {
 	int arr[SIZE], i,max;
